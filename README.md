@@ -28,17 +28,6 @@ Cybersecurity Researcher specializing in **Windows internals** and **offensive s
 - **University of Information Technology (VNU-HCM)** — *2020 – 2025*
   - Bachelor's degree in Information Security · **GPA 8.3/10** (~3.3/4.0)
 
-## 💼 Experience
-
-- **Cybersecurity Researcher** — *ECOM Investment Consultancy, HCM* · `09/2024 – Present`
-  - Research & develop offensive tools and PoCs emulating modern Windows attacks
-  - Implement EDR/AV evasion, process injection, and call-stack spoofing techniques
-- **SOC Tier 1 Intern** — *VNPT Security, HCM* · `02/2024 – 08/2024`
-  - Analyzed web & malware attack patterns in Splunk to investigate incidents
-  - Tuned Splunk detection rules and produced incident / attack-trend reports
-
----
-
 ## 🚀 Featured Projects
 
 | Project | Description |
